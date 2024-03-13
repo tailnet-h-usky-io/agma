@@ -1,1 +1,18 @@
-{}
+{
+    "h.usky.io": {
+        "projectName": "h.usky.io",
+        "description": "none",
+        "type": "community",
+        "author": "tailnet-h-usky-io",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/tailnet-h-usky-io/agma",
+        "githubUri": "https://github.com/tailnet-h-usky-io/agma",
+        "license": "apache-2.0",
+        "lastUpdated": "1710358079340",
+        "tags": [
+            "openid-connect"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
